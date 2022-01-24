@@ -27,7 +27,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/tonimolina14)]
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/tonimolina14)
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProMoly&layout=compact&theme=dark)
