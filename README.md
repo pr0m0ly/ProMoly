@@ -2,7 +2,7 @@
 
 <br />
 
-<script src="https://www.hackthebox.eu/badge/298172"></script>
+<img src="http://www.hackthebox.eu/badge/image/298172" alt="Hack The Box">
 
 ### Languages and Tools:
 
