@@ -2,6 +2,8 @@
 
 <br />
 
+<script src="https://www.hackthebox.eu/badge/298172"></script>
+
 ### Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
